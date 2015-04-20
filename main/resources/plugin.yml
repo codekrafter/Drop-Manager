@@ -1,0 +1,3 @@
+name: DropManager
+main: net.codekrafter.plugins.dm.DropManager
+version: 1.0.0
